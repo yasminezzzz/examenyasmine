@@ -1,1 +1,3 @@
-print(bienvenue dans mon premier programme python aveg GIT)
+from multiplication import multiplication
+print(f"Résultat de la multiplication : {multiplication(4, 2)}")
+
